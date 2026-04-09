@@ -2,14 +2,6 @@
 
 A desktop application for managing a library's book collection, built with Python and Tkinter. It supports adding books, borrowing, returning, searching, and viewing transaction history — all through a clean graphical interface.
 
----
-
-## 🖥️ Screenshots
-
-> Dashboard view with stat cards, recent books, and quick-action buttons.
-
----
-
 ## ✨ Features
 
 - **Dashboard** — Live stats (total, available, borrowed) and recent books at a glance
@@ -52,7 +44,7 @@ Make sure it shows **Python 3.10 or higher**. If not, download the latest Python
 
 **Option A — Clone with Git:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/prabinkhadka2426-maker/ICT102.git
 cd your-repo-name
 ```
 
